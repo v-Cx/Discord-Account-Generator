@@ -1,0 +1,9 @@
+{
+    "token" : "SERVER TOKEN",
+    "prefix" : " Prefix that you want to use ",
+    "bId" : SERVER ID,
+    "accountChannel" : ACCOUNT CHANNEL ID,
+    "accountChannelStr" : "<#ACCOUNT CHANNEL LABELING ID>",
+    "insChannel" : INSTAGRAM CHANNEL ID,
+     "insChannelStr" : "<#INSTAGRAM CHANNEL LABELING ID>"
+}
