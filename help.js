@@ -6,7 +6,7 @@ module.exports.run = function(client, message) {
         .setTitle('» **Commands Available to Users!')
         .setTimestamp()
         .addField('⤇ Spotify', '```css\n .spotify```')
-        .setFooter('© DarkHia | Premium World!', client.user.avatarURL)
+        .setFooter('© v-Cx | Premium World!', client.user.avatarURL)
         .setThumbnail(client.user.avatarURL);
     message.channel.send(embed)
 };
