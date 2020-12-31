@@ -21,7 +21,7 @@ To download all files to your workspace;
 ```gh
 git clone https://github.com/v-Cx/Discord-Account-Generator.git
 ```
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://sellthing.co)
 
 <h2 id="usage">Usage</h2>
 
