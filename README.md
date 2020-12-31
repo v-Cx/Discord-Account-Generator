@@ -19,8 +19,9 @@ It is a bot I wrote for Discord. You can review the details of what you can do w
 To download all files to your workspace;
 
 ```gh
-git clone https://github.com/v-Cx/Discord-Account-Generator.git [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+git clone https://github.com/v-Cx/Discord-Account-Generator.git
 ```
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
 <h2 id="usage">Usage</h2>
 
@@ -38,6 +39,7 @@ git clone https://github.com/v-Cx/Discord-Account-Generator.git [![ForTheBadge u
 
 <h3 id="token">token</h3>
 Paste the token you received from the Discord developer portal for your server here.
+
 [Discord Developer Portal](https://discord.com/developers/applications/)
 *To Get Token;*
 
