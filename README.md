@@ -7,6 +7,7 @@ It is a bot I wrote for Discord. You can review the details of what you can do w
 ### Contents
 
  - [Installation](#installation)
+ 	 - [Install Depencies](#install_depencies)
  - [Usage](#usage)
 	 - [token](#token)
 	 - [prefix](#prefix)
@@ -25,25 +26,23 @@ git clone https://github.com/v-Cx/Discord-Account-Generator.git
 ```
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<h2 id="install_depencies">Install Depenciess</h2>All you have to do is type `npm i` or `yarn install` in the terminal. And you are ready! 🚀
+
 <h2 id="usage">Usage</h2>
 
 #### Main Points You Should Arrange
 
 ```javascript
 {
-    "token" : "SERVER TOKEN",
+    "token" : "SERVER_TOKEN",
     "prefix" : "Prefix that you want to use",
-    "bId" : SERVER ID,
-    "accountChannel" : ACCOUNT CHANNEL ID,
-    "insChannel" : INSTAGRAM CHANNEL ID,
+    "bId" : SERVER_ID,
+    "accountChannel" : ACCOUNT_CHANNEL_ID,
+    "insChannel" : INSTAGRAM_CHANNEL_ID,
 }
 ```
-
-<h3 id="token">token</h3>
-Paste the token you received from the Discord developer portal for your server here.
-
-[Discord Developer Portal](https://discord.com/developers/applications/)
-*To Get Token;*
+<h3 id="token">token</h3>Paste the token you received from the Discord developer portal for your server here.
+**To Get Token:** [Discord Developer Portal](https://discord.com/developers/applications/)
 
 1- Select Your Application
 
@@ -51,11 +50,9 @@ Paste the token you received from the Discord developer portal for your server h
 
 3- Click the "Click to Reveal Token" link next to the Icon option.
 
-<h3 id="prefix">prefix</h3>
-Define your custom prefix.
+<h3 id="prefix">prefix</h3>Define your custom prefix.
 
-<h3 id="bid">bId</h3>
-Paste your server id here. 
+<h3 id="bid">bId</h3>Paste your server id here. 
 *If you don't know how to make your server ID*
 *-Open Settings in Discord -> Click Apparence -> Enable Developer Mode.*
 *Right click your own server on the servers listed on the left and click "copy ID".*
