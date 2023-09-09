@@ -1,33 +1,38 @@
 {
-  "name": "v-Cx",
-  "version": "1.0.0",
-  "description": "Discord Bot | Automatic Account Generator",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "user-instagram": "^1.0.0"
-    "discord.js": "^11.5.1",
-    "fs": "0.0.1-security",
-    "mysql": "^2.17.1",
-    "chalk": "^2.4.2" /*Extra */,
-    "request": "^2.88.0" /*Extra */,
-    "download-file": "^0.1.5" /*Extra */ ,
-    "express": "^4.16.4" /*Extra */,
-    "moment": "^2.24.0" /*Extra */,
-  },
-  "engines": {
-    "node": "8.x"
-  },
-  "repository": {
-    "url": "https://darkhia.com"
-  },
-  "license": "v-Cx",
-  "keywords": [
-    "node",
-    "glitch",
-    "express",
-    "premium-account-generator"
-  ]
+    "name": "v-Cx",
+    "version": "1.0.1",
+    "description": "Discord Bot | Automatic Account Generator",
+    "main": "server.js",
+    "scripts": {
+        "test": "test",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/v-Cx/Discord-Account-Generator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/v-Cx/Discord-Account-Generator/issues"
+      },
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "discord.js": "^11.5.1",
+        "download-file": "^0.1.5",
+        "express": "^4.16.4",
+        "fs": "0.0.1-security",
+        "moment": "^2.24.0",
+        "mysql": "^2.17.1",
+        "request": "^2.88.0",
+        "user-instagram": "^1.0.0"
+    },
+    "keywords": [
+        "node",
+        "glitch",
+        "express",
+        "premium-account-generator",
+        "discord",
+        "bot"
+    ],
+    "author": "v-Cx",
+    "license": "ISC"
 }
