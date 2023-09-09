@@ -26,7 +26,15 @@ git clone https://github.com/v-Cx/Discord-Account-Generator.git
 ```
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h2 id="install_depencies">Install Depenciess</h2>All you have to do is type `npm i` or `yarn install` in the terminal. And you are ready! 🚀
+<h2 id="install_depencies">Install Depenciess</h1>
+
+All you have to do is type `npm i` or `yarn install` in the terminal. And you are ready! 🚀
+```gh
+npm i
+```
+```gh
+yarn install
+```
 
 <h2 id="usage">Usage</h2>
 
@@ -42,6 +50,7 @@ git clone https://github.com/v-Cx/Discord-Account-Generator.git
 }
 ```
 <h3 id="token">token</h3>Paste the token you received from the Discord developer portal for your server here.
+
 **To Get Token:** [Discord Developer Portal](https://discord.com/developers/applications/)
 
 1- Select Your Application
